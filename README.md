@@ -1,7 +1,5 @@
-# USFWS National Surveys
-A collection of pre-1991 National Surveys of Fishing, Hunting, and Wildlife-Associated Recreation
-
-__________________________________________________________________________________________________
+# U.S. Fish and Wildlife Service National Surveys
+## A collection of pre-1991 National Surveys of Fishing, Hunting, and Wildlife-Associated Recreation
 
 The United States Fish and Wildlife Survey has collected and published data on Americans' hunting, fishing, 
 and other outdoor recreation habits since 1955. Editions of the National Survey released after 1990 can be 
